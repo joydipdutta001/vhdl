@@ -1,0 +1,28 @@
+Command line:
+   Switches_Leds_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  64900
+
+Sun Jul 19 13:13:37 2020
+
+
+ Elaboration Time: 0.140625 sec
+
+ Current Memory Usage: 5164.29 Meg
+
+ Total Signals          : 8
+ Total Nets             : 4
+ Total Signal Drivers   : 4
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 3
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 364
+
+ Total Simulation Time: 0.5 sec
+
+ Current Memory Usage: 4692.43 Meg
+
+Sun Jul 19 13:20:01 2020
+

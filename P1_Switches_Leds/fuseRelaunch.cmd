@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "H:/Jervis EDUcation/7sem/VHDL_Programs/P1_Switches_Leds/Switches_Leds_tb_isim_beh.exe" -prj "H:/Jervis EDUcation/7sem/VHDL_Programs/P1_Switches_Leds/Switches_Leds_tb_beh.prj" "work.Switches_Leds_tb" 
