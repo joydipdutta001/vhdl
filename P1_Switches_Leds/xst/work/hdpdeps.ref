@@ -1,8 +1,8 @@
 V3 3
-FL "H:/Jervis EDUcation/7sem/VHDL_Programs/P1_Switches_Leds/Switches_Leds.vhd" 2020/07/19.12:49:10 P.20131013
-EN work/Switches_Leds 1595143161 \
+FL "H:/Jervis EDUcation/7sem/VHDL_Programs/P1_Switches_Leds/Switches_Leds.vhd" 2020/07/19.13:24:40 P.20131013
+EN work/Switches_Leds 1595147970 \
       FL "H:/Jervis EDUcation/7sem/VHDL_Programs/P1_Switches_Leds/Switches_Leds.vhd" \
       PB ieee/std_logic_1164 1381692176
-AR work/Switches_Leds/Behavioral 1595143162 \
+AR work/Switches_Leds/Behavioral 1595147971 \
       FL "H:/Jervis EDUcation/7sem/VHDL_Programs/P1_Switches_Leds/Switches_Leds.vhd" \
-      EN work/Switches_Leds 1595143161
+      EN work/Switches_Leds 1595147970

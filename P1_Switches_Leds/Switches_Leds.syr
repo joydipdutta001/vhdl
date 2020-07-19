@@ -4,13 +4,13 @@ Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
 
 
 Total REAL time to Xst completion: 1.00 secs
-Total CPU time to Xst completion: 0.62 secs
+Total CPU time to Xst completion: 0.26 secs
  
 --> Parameter xsthdpdir set to xst
 
 
 Total REAL time to Xst completion: 1.00 secs
-Total CPU time to Xst completion: 0.62 secs
+Total CPU time to Xst completion: 0.26 secs
  
 --> Reading design: Switches_Leds.prj
 
@@ -68,7 +68,7 @@ Automatic Register Balancing       : No
 
 ---- Target Options
 Add IO Buffers                     : YES
-Global Maximum Fanout              : 500
+Global Maximum Fanout              : 100000
 Add Generic Clock Buffer(BUFG)     : 24
 Register Duplication               : YES
 Slice Packing                      : YES
@@ -105,19 +105,19 @@ Slice Utilization Ratio Delta      : 5
 *                          HDL Compilation                              *
 =========================================================================
 Compiling vhdl file "H:/Jervis EDUcation/7sem/VHDL_Programs/P1_Switches_Leds/Switches_Leds.vhd" in Library work.
-Entity <Switches_Leds> compiled.
-Entity <Switches_Leds> (Architecture <Behavioral>) compiled.
+Entity <switches_leds> compiled.
+Entity <switches_leds> (Architecture <behavioral>) compiled.
 
 =========================================================================
 *                     Design Hierarchy Analysis                         *
 =========================================================================
-Analyzing hierarchy for entity <Switches_Leds> in library <work> (architecture <Behavioral>).
+Analyzing hierarchy for entity <Switches_Leds> in library <work> (architecture <behavioral>).
 
 
 =========================================================================
 *                            HDL Analysis                               *
 =========================================================================
-Analyzing Entity <Switches_Leds> in library <work> (Architecture <Behavioral>).
+Analyzing Entity <Switches_Leds> in library <work> (Architecture <behavioral>).
 Entity <Switches_Leds> analyzed. Unit <Switches_Leds> generated.
 
 
@@ -264,12 +264,12 @@ Delay:               4.632ns (Levels of Logic = 2)
 =========================================================================
 
 
-Total REAL time to Xst completion: 16.00 secs
-Total CPU time to Xst completion: 15.95 secs
+Total REAL time to Xst completion: 12.00 secs
+Total CPU time to Xst completion: 11.57 secs
  
 --> 
 
-Total memory usage is 4505352 kilobytes
+Total memory usage is 4504780 kilobytes
 
 Number of errors   :    0 (   0 filtered)
 Number of warnings :    0 (   0 filtered)

@@ -15,5 +15,5 @@ Time Resolution for simulation is 1ps.
 Waiting for 1 sub-compilation(s) to finish...
 Compiled 5 VHDL Units
 Built simulation executable H:/Jervis EDUcation/7sem/VHDL_Programs/P1_Switches_Leds/Switches_Leds_tb_isim_beh.exe
-Fuse Memory Usage: 29852 KB
-Fuse CPU Usage: 828 ms
+Fuse Memory Usage: 29192 KB
+Fuse CPU Usage: 812 ms

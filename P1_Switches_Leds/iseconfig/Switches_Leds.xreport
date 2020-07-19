@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2020-07-19T12:45:24</DateModified>
+  <DateModified>2020-07-19T14:06:10</DateModified>
   <ModuleName>Switches_Leds</ModuleName>
   <SummaryTimeStamp>Unknown</SummaryTimeStamp>
   <SavedFilePath>H:/Jervis EDUcation/7sem/VHDL_Programs/P1_Switches_Leds/iseconfig/Switches_Leds.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>H:/Jervis EDUcation/7sem/VHDL_Programs/P1_Switches_Leds</ImplementationReportsDirectory>
+  <ImplementationReportsDirectory>H:/Jervis EDUcation/7sem/VHDL_Programs/P1_Switches_Leds\</ImplementationReportsDirectory>
   <DateInitialized>2020-07-19T12:45:23</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>
