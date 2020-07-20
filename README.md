@@ -9,14 +9,15 @@
 
 ![image](https://github.com/joydipdutta001/vhdl/blob/master/ScreenShots_of_P1/Screenshot%201.png)
 
+<br></br>
+
+<br></br>
 
 
+**P2-Gates: This folder contains VHDL code of basic gates AND,OR,NOR,NAND,XOR,XNOR.**
 
-
-
-**Gates: This folder contains VHDL code of basic gates AND,OR,NOR,NAND,XOR,XNOR.**
-
-
+<br></br>
+<br></br>
 
 
 
