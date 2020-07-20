@@ -1,0 +1,7 @@
+[Inputs]
+a
+b
+[Outputs]
+nandOut
+norOut
+[BiDir]

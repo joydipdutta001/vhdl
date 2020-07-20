@@ -1,0 +1,2 @@
+vhdtdtfi -lib work norAndNand.vhd -prj gates -o norAndNand.spl -module norAndNand -template E:/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e norAndNand.spl {H:/Jervis EDUcation/7sem/VHDL_Programs/gates/norAndNand.sym} 
