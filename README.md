@@ -15,7 +15,8 @@
 <br></br>
 ![image](https://github.com/joydipdutta001/vhdl/blob/master/ScreenShots_of_gates/Screenshot%20(101).png)
 <br></br>
-**P3_JK_FlipFlop and P4_T_FlipFlop
+
+**P3_JK_FlipFlop and P4_T_FlipFlop.**
 <br></br>
 ![image](https://github.com/joydipdutta001/vhdl/blob/master/Screenshots_of_FlipFlops/JK-FF.png)
 <br></br>
