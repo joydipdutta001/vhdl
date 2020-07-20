@@ -1,0 +1,8 @@
+V3 3
+FL "H:/Jervis EDUcation/7sem/VHDL_Programs/P4_T_FlipFlop/P3_TFlipFlop_code.vhd" 2020/07/20.18:47:13 P.20131013
+EN work/T_FF 1595251039 \
+      FL "H:/Jervis EDUcation/7sem/VHDL_Programs/P4_T_FlipFlop/P3_TFlipFlop_code.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/T_FF/Behavioral 1595251040 \
+      FL "H:/Jervis EDUcation/7sem/VHDL_Programs/P4_T_FlipFlop/P3_TFlipFlop_code.vhd" \
+      EN work/T_FF 1595251039
