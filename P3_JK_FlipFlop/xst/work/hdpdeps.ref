@@ -1,8 +1,11 @@
-V3 3
-FL "H:/Jervis EDUcation/7sem/VHDL_Programs/P3_JK_FlipFlop/P3_JK_FlipFlop.vhd" 2020/07/20.18:34:33 P.20131013
-EN work/P3_JK_FlipFlop 1595250373 \
+V3 7
+FL "H:/Jervis EDUcation/7sem/VHDL_Programs/P3_JK_FlipFlop/P3_JK_FlipFlop.vhd" 2020/07/21.16:57:34 P.20131013
+EN work/SR_FF 1595330120 \
       FL "H:/Jervis EDUcation/7sem/VHDL_Programs/P3_JK_FlipFlop/P3_JK_FlipFlop.vhd" \
       PB ieee/std_logic_1164 1381692176
-AR work/P3_JK_FlipFlop/Behavioral 1595250374 \
+EN work/P3_JK_FlipFlop 1595330859 \
       FL "H:/Jervis EDUcation/7sem/VHDL_Programs/P3_JK_FlipFlop/P3_JK_FlipFlop.vhd" \
-      EN work/P3_JK_FlipFlop 1595250373
+      PB ieee/std_logic_1164 1381692176
+AR work/P3_JK_FlipFlop/Behavioral 1595330860 \
+      FL "H:/Jervis EDUcation/7sem/VHDL_Programs/P3_JK_FlipFlop/P3_JK_FlipFlop.vhd" \
+      EN work/P3_JK_FlipFlop 1595330859

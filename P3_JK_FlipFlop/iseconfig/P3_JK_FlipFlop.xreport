@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2020-07-20T18:21:42</DateModified>
+  <DateModified>2020-07-21T16:57:37</DateModified>
   <ModuleName>P3_JK_FlipFlop</ModuleName>
-  <SummaryTimeStamp>Unknown</SummaryTimeStamp>
+  <SummaryTimeStamp>2020-07-21T16:57:36</SummaryTimeStamp>
   <SavedFilePath>H:/Jervis EDUcation/7sem/VHDL_Programs/P3_JK_FlipFlop/iseconfig/P3_JK_FlipFlop.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>H:/Jervis EDUcation/7sem/VHDL_Programs/P3_JK_FlipFlop</ImplementationReportsDirectory>
-  <DateInitialized>2020-07-20T18:21:42</DateInitialized>
+  <ImplementationReportsDirectory>H:/Jervis EDUcation/7sem/VHDL_Programs/P3_JK_FlipFlop\</ImplementationReportsDirectory>
+  <DateInitialized>2020-07-21T16:57:36</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>
  <body>

@@ -3,13 +3,13 @@ Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
 --> Parameter TMPDIR set to xst/projnav.tmp
 
 
-Total REAL time to Xst completion: 0.00 secs
+Total REAL time to Xst completion: 1.00 secs
 Total CPU time to Xst completion: 0.27 secs
  
 --> Parameter xsthdpdir set to xst
 
 
-Total REAL time to Xst completion: 0.00 secs
+Total REAL time to Xst completion: 1.00 secs
 Total CPU time to Xst completion: 0.27 secs
  
 --> Reading design: P3_JK_FlipFlop.prj
@@ -68,7 +68,7 @@ Automatic Register Balancing       : No
 
 ---- Target Options
 Add IO Buffers                     : YES
-Global Maximum Fanout              : 500
+Global Maximum Fanout              : 100000
 Add Generic Clock Buffer(BUFG)     : 24
 Register Duplication               : YES
 Slice Packing                      : YES
@@ -105,7 +105,8 @@ Slice Utilization Ratio Delta      : 5
 *                          HDL Compilation                              *
 =========================================================================
 Compiling vhdl file "H:/Jervis EDUcation/7sem/VHDL_Programs/P3_JK_FlipFlop/P3_JK_FlipFlop.vhd" in Library work.
-Architecture behavioral of Entity p3_jk_flipflop is up to date.
+Entity <p3_jk_flipflop> compiled.
+Entity <p3_jk_flipflop> (Architecture <behavioral>) compiled.
 
 =========================================================================
 *                     Design Hierarchy Analysis                         *
@@ -320,12 +321,12 @@ Offset:              5.161ns (Levels of Logic = 2)
 =========================================================================
 
 
-Total REAL time to Xst completion: 12.00 secs
-Total CPU time to Xst completion: 12.41 secs
+Total REAL time to Xst completion: 16.00 secs
+Total CPU time to Xst completion: 15.39 secs
  
 --> 
 
-Total memory usage is 4521420 kilobytes
+Total memory usage is 4521548 kilobytes
 
 Number of errors   :    0 (   0 filtered)
 Number of warnings :    1 (   0 filtered)

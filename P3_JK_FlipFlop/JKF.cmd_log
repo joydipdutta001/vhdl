@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "H:/Jervis EDUcation/7sem/VHDL_Programs/P3_JK_FlipFlop/JKF.xst" -ofn "H:/Jervis EDUcation/7sem/VHDL_Programs/P3_JK_FlipFlop/JKF.syr" 

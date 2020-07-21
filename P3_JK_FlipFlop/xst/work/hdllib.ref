@@ -1,2 +1,6 @@
-AR p3_jk_flipflop behavioral "H:/Jervis EDUcation/7sem/VHDL_Programs/P3_JK_FlipFlop/P3_JK_FlipFlop.vhd" sub00/vhpl01 1595250374
-EN p3_jk_flipflop NULL "H:/Jervis EDUcation/7sem/VHDL_Programs/P3_JK_FlipFlop/P3_JK_FlipFlop.vhd" sub00/vhpl00 1595250373
+EN jkf NULL "H:/Jervis EDUcation/7sem/VHDL_Programs/P3_JK_FlipFlop/P3_JK_FlipFlop.vhd" sub00/vhpl02 1595328967
+AR p3_jk_flipflop behavioral "H:/Jervis EDUcation/7sem/VHDL_Programs/P3_JK_FlipFlop/P3_JK_FlipFlop.vhd" sub00/vhpl01 1595330860
+EN srf NULL "H:/Jervis EDUcation/7sem/VHDL_Programs/P3_JK_FlipFlop/P3_JK_FlipFlop.vhd" sub00/vhpl03 1595329947
+AR sr_ff behavioral "H:/Jervis EDUcation/7sem/VHDL_Programs/P3_JK_FlipFlop/P3_JK_FlipFlop.vhd" sub00/vhpl05 1595330121
+EN p3_jk_flipflop NULL "H:/Jervis EDUcation/7sem/VHDL_Programs/P3_JK_FlipFlop/P3_JK_FlipFlop.vhd" sub00/vhpl00 1595330859
+EN sr_ff NULL "H:/Jervis EDUcation/7sem/VHDL_Programs/P3_JK_FlipFlop/P3_JK_FlipFlop.vhd" sub00/vhpl04 1595330120
